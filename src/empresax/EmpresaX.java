@@ -1,5 +1,5 @@
 /**
- * Chachi programa de Fran
+ * Chachi programa de Fran y Patri
  */
 
 package empresax;
