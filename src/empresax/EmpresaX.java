@@ -10,6 +10,7 @@ public class EmpresaX {
         // TODO code application logic here
         
         int r=0;
+        float v=34;
     }
     
 }
