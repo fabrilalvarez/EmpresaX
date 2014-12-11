@@ -1,3 +1,7 @@
+/**
+ * Chachi programa de Patri
+ */
+
 package empresax;
 
 public class EmpresaX {
